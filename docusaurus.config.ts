@@ -90,6 +90,16 @@ const config: Config = {
           position: 'left',
           label: 'دليل المستخدم',
         },
+                {
+          href: 'https://search.mandumah.com',
+          label: 'البحث في المنظومة',
+          position: 'right',
+        },
+        {
+          href: 'https://www.mandumah.com',
+          label: 'الموقع الرئيسي',
+          position: 'right',
+        },
       ],
     },
     footer: {
